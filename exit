@@ -1,0 +1,101 @@
+[33mcommit 76f83f3a3e1004adc79ad38a0f29cb028ce5972d[m[33m ([m[1;36mHEAD -> [m[1;32msign-up[m[33m, [m[1;31morigin/sign-up[m[33m)[m
+Author: AnthonyTC89 <ptonyptc@gmail.com>
+Date:   Wed Sep 18 17:53:12 2019 -0500
+
+    private method user_params done
+
+[33mcommit 7876b4a9abb6d56655302c8932fdd223189a47a7[m
+Author: AnthonyTC89 <ptonyptc@gmail.com>
+Date:   Wed Sep 18 17:20:04 2019 -0500
+
+    signup form done
+
+[33mcommit e4cb0f4a037e84bf82f2a767e83c6c33f240b9b1[m
+Author: AnthonyTC89 <ptonyptc@gmail.com>
+Date:   Wed Sep 18 17:02:40 2019 -0500
+
+    gravatar user done
+
+[33mcommit a7fdfee800b82b2496d8cc8c3b5079ac8dafee55[m
+Author: AnthonyTC89 <ptonyptc@gmail.com>
+Date:   Wed Sep 18 16:25:21 2019 -0500
+
+    debug enviroment done, user show view done
+
+[33mcommit ee3acde3ae6b3cc15c4ea6dbffe4ccbb9ad24576[m[33m ([m[1;31morigin/modeling-users[m[33m, [m[1;31morigin/develop[m[33m, [m[1;32mdevelop[m[33m)[m
+Author: AnthonyTC89 <ptonyptc@gmail.com>
+Date:   Thu Sep 12 17:41:30 2019 -0500
+
+    Make a basic User model (including secure passwords) done
+
+[33mcommit 6fbcaa370d8f464e0c8ecb28d92116fa52194876[m
+Author: AnthonyTC89 <ptonyptc@gmail.com>
+Date:   Thu Sep 12 17:07:05 2019 -0500
+
+    has_secure_password done
+
+[33mcommit 1227aa69efb1f2696d06c211c17f86f58332628b[m[33m ([m[1;31morigin/filling-in-layout[m[33m)[m
+Author: AnthonyTC89 <ptonyptc@gmail.com>
+Date:   Wed Sep 11 14:01:45 2019 -0500
+
+    new user page done
+
+[33mcommit 8274a4ccf231803dca7368083a567b73cfd71bd3[m
+Author: AnthonyTC89 <ptonyptc@gmail.com>
+Date:   Tue Sep 10 17:37:41 2019 -0500
+
+    custom.scss created
+
+[33mcommit 5e0ad84a161c4ae5c068c1491d17ebc21df38b9c[m
+Author: AnthonyTC89 <ptonyptc@gmail.com>
+Date:   Tue Sep 10 17:17:08 2019 -0500
+
+    layouts created
+
+[33mcommit 9f4cca5455582ef04cc85d37831f076e17cb3a10[m[33m ([m[1;31morigin/static-pages[m[33m, [m[1;31morigin/master[m[33m, [m[1;31mheroku/static-pages[m[33m, [m[1;31mheroku/master[m[33m, [m[1;32mmaster[m[33m)[m
+Author: AnthonyTC89 <ptonyptc@gmail.com>
+Date:   Fri Sep 6 17:40:50 2019 -0500
+
+    Add a full_title helper
+
+[33mcommit 21376a0185897963d9dbb9ffee4ea61df4532d04[m
+Author: AnthonyTC89 <ptonyptc@gmail.com>
+Date:   Fri Sep 6 12:25:48 2019 -0500
+
+    guard installed
+
+[33mcommit 7b881c1d387de71bbe5d7da67c0865fccb91f8e3[m
+Author: AnthonyTC89 <ptonyptc@gmail.com>
+Date:   Fri Sep 6 12:06:11 2019 -0500
+
+    static pages finished
+
+[33mcommit 80ed1de9de7d28bbd290c2f5efdda84a8623bdfc[m
+Author: AnthonyTC89 <ptonyptc@gmail.com>
+Date:   Fri Sep 6 10:55:53 2019 -0500
+
+    static pages created
+
+[33mcommit 533e8eeb2525f8bd6718af69844734ee2cdff938[m
+Author: AnthonyTC89 <ptonyptc@gmail.com>
+Date:   Thu Sep 5 16:52:37 2019 -0500
+
+    heroku created
+
+[33mcommit 4dad3e2b8e2d7acc4c2ec7ede213c977034c62a5[m
+Author: AnthonyTC89 <ptonyptc@gmail.com>
+Date:   Thu Sep 5 16:48:29 2019 -0500
+
+    README updated
+
+[33mcommit d5083e724d9631144b763e7ffb555e51470cd30e[m
+Author: AnthonyTC89 <ptonyptc@gmail.com>
+Date:   Thu Sep 5 16:46:11 2019 -0500
+
+    gems updated
+
+[33mcommit fe85536279a8b28bac3c936d93cb60b37c888a8c[m
+Author: AnthonyTC89 <ptonyptc@gmail.com>
+Date:   Thu Sep 5 16:17:55 2019 -0500
+
+    rails installed
