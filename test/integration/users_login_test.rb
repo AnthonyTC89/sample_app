@@ -35,7 +35,7 @@ class UsersLoginTest < ActionDispatch::IntegrationTest
     
     assert_equal session[:user_id], assigns(:user).id
 
-    #assert_not_empty cookies[:remember_token]
+    assert_not_empty cookies[:remember_token]
   end
 
   test "login without remembering" do
