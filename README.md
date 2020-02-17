@@ -30,8 +30,8 @@
 This project is based on the tutorial of [Ruby of Rails](https://www.railstutorial.org/book) by Michael Hartl. The goal of the project is learn about the main features of Rails and how to deploy an app on Heroku.
 
 ### Built With
-* [Ruby](https://www.w3.org/html/)
-* [Rails](https://www.w3.org/Style/CSS/)
+* [Ruby](https://www.ruby-lang.org/en/)
+* [Ruby on Rails](https://rubyonrails.org/)
 * [Bootstrap](https://getbootstrap.com/)
 
 ### Installation
